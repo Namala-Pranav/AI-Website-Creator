@@ -1,0 +1,54 @@
+Generate a comprehensive, single-page portfolio website for a **fresher** focusing on Data Science and AI/ML skills.
+
+**Target Audience & Goal:** Recruiters and hiring managers. The goal is to quickly demonstrate professional capability and passion for technology.
+
+**Personal Data:**
+* **Name:** Vignesh Kalla
+* **Email:** vigneshkalla@gmail.com
+* **Phone:** 9652060892
+* **Skills:** Python, SQL, Exploratory Data Analysis (EDA), Data Visualization, Data Analysis,  Power BI, Machine Learning, Deep Learning, N8N Workflow, and LangChain.
+* **Projects:**
+1. Data Analysis & EDA - Fortune 500 companies in India
+2. SQL - Music-Story-Database
+3. Power BI - Blinkit Business Dashboard
+4. N8N - Power Point AI
+5. Opencv - Real Time Multi Face Analysis 
+
+**Layout & Sections:**
+1.  **Header/Navigation:** Simple, sticky nav with links to Home, Skills, and Contact.
+2.  **Hero/Introduction:** A compelling headline (e.g., "Aspiring Data Scientist & AI Developer") with a brief, impactful opening statement. Include a placeholder for a circular profile picture.
+3.  **Skills:** Use visually engaging tags or cards to list all skills provided. Group them logically (e.g., Programming, Data Viz, AI/ML).
+4.  **Contact:** Clean section with the provided Email and Phone number. Include a link placeholder for a LinkedIn profile.
+
+**Theme & Design:**
+* **Theme:** Modern, professional, and minimalist (Tech/Dark Mode friendly).
+* **Colors:** Use a base of dark charcoal/navy for the background (`#1A1A2E`) and a **bright, professional electric blue** (like `#00ADB5`) as the primary accent color for buttons, hover states, and key text.
+* **Font:** Use a clean, tech-friendly sans-serif font (like 'Inter' or 'Roboto').
+
+**Features:**
+* **Responsive:** Must look excellent on both desktop and mobile devices.
+* **Clean CSS:** Use Flexbox or Grid for the layout.
+
+
+
+
+--------------------------------------------------------------------------
+"Generate a complete, responsive, single-page web application interface for a 'ChatGPT style' conversational AI.
+
+Layout & Sections:
+
+Full-screen chat window with a sidebar for settings (e.g., model choice, temperature).
+
+A large, centered message area to display conversation history.
+
+A sticky input bar at the bottom for the user to type messages.
+
+Theme & Colors:
+
+Dark theme (like the actual ChatGPT interface). Use dark gray backgrounds and light green/blue for branding and message bubbles.
+
+Features:
+
+Use CSS to style distinct 'User' and 'AI' message bubbles.
+
+Include a simple JavaScript function to simulate adding a new message to the chat history when the 'Send' button is clicked."
